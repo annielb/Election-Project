@@ -1,0 +1,47 @@
+body {
+font-family:"gill sans";
+color: #fff
+}
+ul
+{
+list-style-type: none;
+}
+
+a{
+	color #000;
+}
+
+#wrapper {
+	display: table;
+	table-layout: fixed;
+	
+	width:90%;
+	height:100px;
+	background-color:Gray;
+	color: #fff;
+	}
+	
+#wrapper div {
+	display: table-cell;
+	height: 100px;
+		background-color: #99ccff;
+}
+#wrapper div {
+	display: table-cell;
+	height: 100px;
+		background-color: #ff5050;
+}
+
+html {
+background: url(http://www.freepptfile.xyz/wp-content/uploads/2016/02/Free-United-States-Bald-Eagle-PowerPoint-Template-15.jpg)
+no-repeat center center fixed; 
+background-size: cover;
+}
+
+div#one {
+background-color: #3399ff;
+}
+
+a {
+color: white;
+}
